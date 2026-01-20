@@ -1,6 +1,6 @@
 package com.expensetracker.expense_tracker.DTO;
 
-public class SignUp {
+public class SignUpRequest {
 
     private String email;
     private String password;
